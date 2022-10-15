@@ -19,4 +19,9 @@
 - `CTRL+R`: 当前文件替换文本
 - `CTRL+SHIFT+R`: 全局替换文本
 
+- `CTRL+E`: 最近使用过的文件
+- `CTRL+SHIFT+N`: 全局搜索文件
+- `DOUBLE+SHIFT`: 全局搜索 ALL/类/文件/...
+- 
+
 
