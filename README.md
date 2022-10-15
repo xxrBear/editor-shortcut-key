@@ -14,9 +14,14 @@
 - `CTRL+/`:      注释一行代码
 
 ### 搜索/替换快捷键
+
+#### 文本类型
 - `CTRL+F`:      当前文本搜索
 - `CTRL+SHIFT+F`: 全局搜索
 - `CTRL+R`: 当前文件替换文本
 - `CTRL+SHIFT+R`: 全局替换文本
 
-
+#### 文件类型
+- `CTRL+E`: 最近打开的文件
+- `CTRL+SHIFT+N`: 全局搜索文件
+- `DOUBLE SHIFT`: 搜索
