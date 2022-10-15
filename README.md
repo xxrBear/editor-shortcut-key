@@ -24,4 +24,4 @@
 #### 文件类型
 - `CTRL+E`: 最近打开的文件
 - `CTRL+SHIFT+N`: 全局搜索文件
-- `DOUBLE SHIFT`: 搜索
+- `DOUBLE+SHIFT`: 全局搜索 ALL/类/文件/...
