@@ -1,5 +1,5 @@
 <div align=center>    
-<a href="https://www.jetbrains.com/?from=DjangoBlog"><img src="https://resource.lylinux.net/image/2020/07/01/logo.png" width="40" height="40"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://resource.lylinux.net/image/2020/07/01/logo.png" width="80" height="80"></a>
 </div>
 
 #  PyCharm的常用快捷键
