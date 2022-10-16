@@ -1,8 +1,9 @@
-## pycharm的常用快捷键
-
-<div>    
-<a href="https://www.jetbrains.com/?from=DjangoBlog"><img src="https://resource.lylinux.net/image/2020/07/01/logo.png" width="20" height="20"></a>
+<div align=center>    
+<a href="https://www.jetbrains.com/?from=DjangoBlog"><img src="https://resource.lylinux.net/image/2020/07/01/logo.png" width="40" height="40"></a>
 </div>
+
+#  PyCharm的常用快捷键
+
 
 ### 代码编辑快捷键
 
