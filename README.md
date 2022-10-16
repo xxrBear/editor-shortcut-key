@@ -8,10 +8,14 @@
 
 - `CTRL+ALT+L`:  代码格式标准化
 - `CTRL+D`:      向下复制当前行
-- `CTRL+X`:      剪接当前行
+- `CTRL+X`:      剪切当前行
 - `CTRL+Y`:      删除当前行
+- `CTRL+V`:      复制文本
 - `CTRL+SHIFT+U`:当前代码全部大写
 - `CTRL+/`:      注释一行代码
+- `CTRL+Z`:      撤销前一个修改
+- `CTRL+SHIFT+Z`:反撤销
+- `DOUBLE+CTRL+↑/ↆ`:多行光标  
 
 ### 搜索/替换快捷键
 
