@@ -17,6 +17,9 @@
 - `CTRL+Z`:      撤销前一个修改
 - `CTRL+SHIFT+Z`:反撤销
 - `DOUBLE+CTRL+↑/ↆ`:多行光标  
+- `SHIFT+ALT+G`: 当前选中行后生成光标
+
+- `SHIFT+ALT+INSERT`: 进入/退出列编辑模式
 
 ### 搜索/替换快捷键
 
