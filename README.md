@@ -1,7 +1,3 @@
-<div align=center>    
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/xxrBear/image/master/logo.png" width="80" height="80"></a>
-</div>
-
 #  PyCharm的常用快捷键
 
 
